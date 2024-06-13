@@ -1,0 +1,21 @@
+{
+  "name": "build-a-quiz-app-cli109",
+  "version": "1.1.0",
+  "description": "this is quiz cli project,which consists of mcqss questions having 10 marks of each question",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "by shamsaaa",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "keywords": []
+}
